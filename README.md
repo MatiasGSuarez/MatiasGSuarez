@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MatiasGSuarez
 - 👀 I’m interested in frontend software develop
-- 🌱 I’m currently learning javascript, html and css. Also the javascript framework React
+- 🌱 I’m currently learning javascript, html and css. Also React
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on matiasgsuarez98@gmail.com
 
